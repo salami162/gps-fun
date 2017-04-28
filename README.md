@@ -21,7 +21,7 @@ $ sudo pip install virtualenv
 3. ### Clone this repository
 ```
 $ git clone git@github.com:salami162/gps-fun.git
-$ cd wwc-connect-conf
+$ cd gps-fun
 ```
 
 4. ### Activate virtual environment
