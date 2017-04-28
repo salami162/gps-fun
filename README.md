@@ -51,7 +51,7 @@ The Start/Stop toggle button on the top right corner is meant to start polling f
 ```
 python manage.py kmeans -c 4 -src './data/wwc_conf_dataset_tiny.csv' -dest './data/trained_output.csv'
 ```
-Given a csv file of locations, generates clusters and outputs them into another csv file. The following command will output 4 clusters, with the lat/lng of the centers in `./data/trained_output.csv`
+Given a csv file of locations, generates clusters and outputs the cluster centers into another csv file. The above command will output 4 clusters, with the lat/lng of the centers in `./data/trained_output.csv`
 
 
 ## Recommended Reading
