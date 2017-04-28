@@ -1,0 +1,40 @@
+gevent==1.2.1
+greenlet==0.4.4
+
+# Flask service framework
+# License: BSD
+# Upstream url: http://github.com/mitsuhiko/flask/
+Flask==0.10.1
+
+# A Flask extension adding a decorator for CORS support
+Flask-Cors==3.0.2
+
+flask-restful==0.3.3
+
+# Scripting support for Flask
+# License: BSD
+# Upstream url: http://github.com/techniq/flask-script
+Flask-Script==2.0.5
+
+# python haversine implementation, only needed for testing
+haversine==0.1
+
+# Testing library
+# License: MIT
+# Upstream url: http://doc.pytest.org/en/latest/index.html
+pytest>=2.0.0
+
+# Ultra fast JSON encoder and decoder for Python
+ujson==1.35
+
+# Color selecton tool
+colorutils==0.2.1
+
+# We need numpy
+numpy==1.12.1
+
+pandas==0.20.0rc1
+
+sklearn==0.16.1
+
+scipy==0.19.0
