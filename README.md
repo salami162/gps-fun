@@ -1,5 +1,10 @@
 # Women Who Code - CONNECT Conference Workshop
 
+## What does this repo have?
+1. Data - a list of (lat/lng coordinates) around San Francisco
+2. A Frontend Page - to visualize the places and clustered results on the map
+3. Scripting entries - run clustering algorithms and generate output (Output can be visualized on the frontend page)
+
 ## Setup
 The following steps will help you setup a development environment.
 
