@@ -15,7 +15,7 @@ $ sudo pip install virtualenv
 
 3. ### Clone this repository
 ```
-$ git clone git@github.com:sbalireddi/wwc-connect-conf.git
+$ git clone git@github.com:salami162/gps-fun.git
 $ cd wwc-connect-conf
 ```
 
