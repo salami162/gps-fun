@@ -40,7 +40,7 @@ $ python manage.py --help
 python manage.py runserver
 ```
 This will launch a server on localhost at port 5000. Hit up the index page at ```http://localhost:5000/```
-The Start/Stop toggle button on the top right corner is meant to start polling for changes in the trained clusters. Before you hit it the first time, make sure you've run atleast one round of clustering. To run one, see the next step.
+The Start/Stop toggle button on the top right corner is meant to start polling for changes in the trained clusters. Before you hit it the first time, make sure you've run atleast one round of clustering, so as to generate a `./data/trained_output.csv`. To run one, see the next step.
 
 8. ### Running KMeans
 ```
